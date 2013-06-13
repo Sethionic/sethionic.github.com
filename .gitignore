@@ -1,35 +1,10 @@
-*.py[cod]
+_site/*
+_theme_packages/*
 
-# C extensions
-*.so
+Thumbs.db
+.DS_Store
 
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
+!.gitkeep
 
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
+.rbenv-version
+.rvmrc
