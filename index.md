@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sethionic
-tagline: Musings on Technology
+title: Home
+tagline: Efforts in Efficiency
 ---
 {% include JB/setup %}
 

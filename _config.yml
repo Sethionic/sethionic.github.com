@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Sethionic
-tagline: Musings on Technology
+title : Sethionic.github.io
+tagline: Efforts in Efficiency
 author :
   name : Jonathan Lowery
   #email : blah@email.test
@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : sethionicgithubio
     livefyre :
       site_id : 123
     intensedebate :
